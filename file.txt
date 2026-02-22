@@ -1,0 +1,2 @@
+This is sample content to be read by Node.js!
+Welcome to file reading in Node.js.
