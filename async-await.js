@@ -1,5 +1,5 @@
 // Node.js Async/Await Example
-const condition = true; // Change this to false to see error handling
+const condition = false; // Change this to false to see error handling
 
 const myPromise = new Promise((resolve, reject) => {
     setTimeout(() => {
